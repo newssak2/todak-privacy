@@ -1,0 +1,16 @@
+{
+  "name": "토닥",
+  "short_name": "토닥",
+  "start_url": "/todak-privacy/app/",
+  "scope": "/todak-privacy/app/",
+  "display": "standalone",
+  "background_color": "#FBF7F2",
+  "theme_color": "#FBF7F2",
+  "icons": [
+    {
+      "src": "/todak-privacy/app/apple-touch-icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
